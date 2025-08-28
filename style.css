@@ -154,6 +154,9 @@ h2:not(main h2){
     }
     
 }
+.Product{
+    
+}
 .product img, .SerenitySpot img,.Gathering img{
     height:16rem ;
     width:16rem ;
